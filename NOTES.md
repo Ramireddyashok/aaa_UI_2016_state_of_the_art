@@ -17,7 +17,7 @@
  if you study such things from the  direction that I lean towards. 
  React is also a good choice for this same reason, but I lean to Polymer.
  
-### HelloWorld Google-signin
+### Running HelloWorld UI 
 
 To run this app as a HelloWorld, you'll need to do some setup first. What follows may be the easiest way:
 
